@@ -8,6 +8,9 @@ public class MeassgingApiAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MeassgingApiAppApplication.class, args);
+	System.out.println("print greeting");
 	}
+	
+	
 
 }
