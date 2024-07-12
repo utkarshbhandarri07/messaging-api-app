@@ -11,7 +11,7 @@ class MeassgingApiAppApplicationTests {
 	@Test
 	void contextLoads() {
 		
-		assertEquals(190,0);
+		assertEquals(190,200);
 	}
 
 }
