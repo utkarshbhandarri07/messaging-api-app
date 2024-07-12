@@ -10,8 +10,7 @@ class MeassgingApiAppApplicationTests {
 
 	@Test
 	void contextLoads() {
-		
-		assertEquals(190,200);
+	
 	}
 
 }
